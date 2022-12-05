@@ -6,7 +6,7 @@ SEW | CORE | Webshop
 ### Acceptance Criteria
 - A list of products is available.
 - Each product item shows an image, a title, a price, and a description.
-- An URL is used to load the image of the product - no file upload is needed.
+- An external URL is used as source of the image of the product - no file upload is needed.
 
 
 ## User Story 2
