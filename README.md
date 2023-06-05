@@ -15,7 +15,7 @@ SEW | CORE | Webshop
 ### Acceptance Criteria
 - There is a button for adding a new product.
 - When clicking on this button, an editor showing a form for entering data is displayed.
-- The editor is a dedicated state.
+- The editor is a dedicated state (use Vue router).
 - Once the save button is clicked, the user is redirected to the list and the new product items is displayed at the top.
 
 
