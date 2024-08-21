@@ -1,4 +1,4 @@
-SEW | CORE | Webshop
+SEW | Webshop
 
 ## User Story 1
 *As a seller, I need a system to show my products, so that possible buyers can view them online.*
@@ -34,3 +34,9 @@ SEW | CORE | Webshop
 - Each product item shows a button for editing this entry.
 - Once the button is clicked an editor, showing a form with the prefilled data of the item, is displayed.
 - Once the save button is clicked, the user is redirected to the list and the updated information of the product item is displayed.
+
+
+## Skill(s)
+- [Pinia Store](https://my.skilldisplay.eu/en/skill/1694/0)  
+
+    
